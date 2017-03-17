@@ -3,7 +3,7 @@
  */
 import java.util.Random;
 
-public class zadacha_1 {
+public class zadacha_01 {
     public static void main(String[] args) {
 
         System.out.println("Задание 1:");

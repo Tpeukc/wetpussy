@@ -1,7 +1,7 @@
 /**
  * Created by YurievAP on 15.03.2017.
  */
-public class zadacha_2 {
+public class zadacha_02 {
     public static void main(String[] args) {
 
 

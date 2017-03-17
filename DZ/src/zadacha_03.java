@@ -1,7 +1,7 @@
 /**
  * Created by YurievAP on 15.03.2017.
  */
-public class zadacha_3 {
+public class zadacha_03 {
     public static void main(String[] args) {
         double a = 1;
         double b = 12;

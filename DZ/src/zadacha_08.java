@@ -1,10 +1,10 @@
 /**
  * Created by YurievAP on 17.03.2017.
  */
-public class zadacha_9 {
+public class zadacha_08 {
     public static void main(String[] args){
-        for(int a=1, b=1;a<=55;a++,b=b+2){
-            System.out.print(b+" ");
+        for(int a=1000;a<=9999;a=a+3){
+            System.out.print(a+" ");
         }
     }
 }

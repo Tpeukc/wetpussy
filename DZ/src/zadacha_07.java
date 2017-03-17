@@ -2,7 +2,7 @@
  * Created by YurievAP on 17.03.2017.
  */
 import java.util.Random;
-public class zadacha_7 {
+public class zadacha_07 {
     public static void main(String[] args){
         Random rnd=new Random();
         int a= rnd.nextInt(28800), b=a/360;

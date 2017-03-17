@@ -1,7 +1,7 @@
 /**
  * Created by YurievAP on 15.03.2017.
  */
-public class zadacha_4 {
+public class zadacha_04 {
         public static void main(String[] args){
             int a= (int)(Math.random()*150+1)+5;
             if(a<=25||a>=100){

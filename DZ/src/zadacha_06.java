@@ -2,7 +2,7 @@
  * Created by YurievAP on 17.03.2017.
  */
 import  java.util.Random;
-public class zadacha_6 {
+public class zadacha_06 {
 
     public static void main(String args []){
         Random rand = new Random();
