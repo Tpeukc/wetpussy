@@ -1,7 +1,7 @@
 # Работы по курсу Java Junior Developer.
 Мой мозг выл и бился в конвульсиях, но я продолжал насиловать эту сучку.
 <br>
-И как итог <A href = "https://github.com/Tpeukc/wetpussy/tree/ITMO/DZ/src">получилась вот эта хрень.</A><BR>
+И как итог, получилась  <A href = "https://github.com/Tpeukc/wetpussy/tree/ITMO/DZ/src">вот эта хрень.</A><BR>
 
 <br>
 
