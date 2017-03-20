@@ -4,7 +4,7 @@ import java.util.Random;
 /**
  * Created by YurievAP on 14.03.2017.
  */
-public class DZ_150317 {
+public class zadacha_01a {
     public static void main (String[] args) {
         Random rand = new Random();
 
