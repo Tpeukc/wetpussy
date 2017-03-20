@@ -1,7 +1,7 @@
 /**
  * Created by Sola on 19.03.2017.
  */
-import java.util.*;
+
 
 public class zadacha_40 {
     public static void main(String[] args) {
