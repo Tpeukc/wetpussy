@@ -10,10 +10,10 @@ import java.util.zip.GZIPOutputStream;
 public class GZip {
 
     public static void main(String[] args) {
-        // как и в прошлый статьях, мы будем использовать для сжатия карту моего сайта
-        String file = "/Users/prologistic/sitemap.xml";
-        String gzipFile = "/Users/prologistic/sitemap.xml.gz";
-        String newFile = "/Users/prologistic/new_sitemap.xml";
+
+        String file = "ADD_A_SOURCE.xml";
+        String gzipFile = "ADD_A_SOURCE.xml.gz";
+        String newFile = "ADD_A_NEW_SOURCE.xml";
 
         // сжатие файла с помощью GZIP
         compressGzipFile(file, gzipFile);
